@@ -16,8 +16,8 @@ This repository contains a collection of simple and practical examples related t
 Clone this repository:
 
 ```bash
-git clone https://github.com/kyprosantreou/Machine-Learning-Examples.git
-cd Machine-Learning-Examples
+git clone https://github.com/kyprosantreou/Machine-Learning-Tutorials.git
+cd Machine-Learning-Tutorials
 ```
 
 ## 📚 Purpose
