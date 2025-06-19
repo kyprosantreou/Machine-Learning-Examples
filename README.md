@@ -1,4 +1,4 @@
-# Machine Learning Examples
+# Machine Learning Tutorials
 
 This repository contains a collection of simple and practical examples related to machine learning and data analysis using Python. It's intended as a learning resource for students, researchers, or anyone interested in understanding core concepts in data science through hands-on code.
 
